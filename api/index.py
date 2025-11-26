@@ -30,7 +30,7 @@ def gerarlink():
         "maxInstallmentCount": parcelas,
         "description": f"Compra de {quantidade}x {nome}",
         "callback": {
-            "successUrl": "https://flask-hello-world-enos.vercel.app/compracerta"
+            "successUrl": "https://flask-tito-baby.vercel.app//compracerta"
         }
     }
 
